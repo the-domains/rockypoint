@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rockypoint]]></title>
+        <description><![CDATA[Rockypoint]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 22:35:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rockypoint]]></title>
+            <description><![CDATA[<article><h1>Rockypoint</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cba9c1a6-2d27-4982-9844-8acc557290f1.jpg"></article>]]></description>
+            <link>undefined45e61e81-8f87-4008-aa29-9e3d352e9f9e/index.html</link>
+            <guid isPermaLink="false">45e61e81-8f87-4008-aa29-9e3d352e9f9e</guid>
+            <pubDate>Wed, 10 Feb 2016 22:32:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
