@@ -1,7 +1,7 @@
 name: Rockypoint
 favicon: null
-layout_spectrum: 0.2223261990584433
-typography_spectrum: 0.5462735132314265
+layout_spectrum: 1
+typography_spectrum: 0.06155
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.9559148363769054
-  lightness: 0.3513789821881801
-  saturation: 0.7433844895567745
-  rhythmicContrast: 0.8384141030255705
+    - '#93b1cd'
+    - '#171a1f'
+    - '#65809d'
+    - '#dfdee3'
+    - '#4b4c50'
+  brandStrength: 0.75
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
