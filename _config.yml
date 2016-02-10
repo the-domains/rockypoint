@@ -1,8 +1,7 @@
 name: Rockypoint
 favicon: null
-layout_spectrum: 0.53125
-typography_spectrum: 0.9338821498677135
-title: Gorgeous Mexican Paradise
+layout_spectrum: 0.2223261990584433
+typography_spectrum: 0.5462735132314265
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#322515'
-    - '#ffffff'
-    - '#595441'
-    - '#8e8969'
-    - '#dcbc83'
-  brandStrength: 0.75
-  lightness: 0.7061663372442126
-  saturation: 0.873676986200735
-  rhythmicContrast: 0.8142217707354575
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9559148363769054
+  lightness: 0.3513789821881801
+  saturation: 0.7433844895567745
+  rhythmicContrast: 0.8384141030255705
 purpose: []
