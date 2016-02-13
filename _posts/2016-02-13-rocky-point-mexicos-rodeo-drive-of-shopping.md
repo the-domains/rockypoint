@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T19:32:45.372Z'
-dateModified: '2016-02-13T19:32:41.747Z'
+datePublished: '2016-02-13T20:17:32.755Z'
+dateModified: '2016-02-13T20:14:18.478Z'
 title: Shopping
 author: []
 sourcePath: _posts/2016-02-13-rocky-point-mexicos-rodeo-drive-of-shopping.md
@@ -23,9 +23,7 @@ _type: Article
 
 ---
 # Shopping
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd8fe8fab2c73ddc65d8308b40e26d5750218215.jpg)
-
-## 
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b105917ffd0ee1db8b8d6bb1cb2e38da7c203c5.jpg)
 
 ## Rocky Point, Mexico's Rodeo Drive of Shopping
 
