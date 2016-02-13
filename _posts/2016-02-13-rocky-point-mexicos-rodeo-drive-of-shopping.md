@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-13T18:56:54.125Z'
-dateModified: '2016-02-13T18:54:11.467Z'
+datePublished: '2016-02-13T19:00:03.757Z'
+dateModified: '2016-02-13T19:00:00.319Z'
 title: 'Rocky Point, Mexico’s Rodeo Drive of Shopping'
 author: []
 sourcePath: _posts/2016-02-13-rocky-point-mexicos-rodeo-drive-of-shopping.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Rocky Point, Mexico's Rodeo Drive of Shopping
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eadd08a3b9f22cdfbd5d33b79c532eff3064d39a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bbc2d6a675f8b097d19c43067a965c0bfa4ab6f.jpg)
 
 Everyone familiar with RP will tell you to go to "Shack's 5th Avenue", but good luck finding it. We found it quite by accident taking a wrong turn one day. This is another great place to shop. It is located in a relatively new shopping district on Revolucion Ave.
 
