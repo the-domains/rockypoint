@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-13T19:00:03.757Z'
-dateModified: '2016-02-13T19:00:00.319Z'
+datePublished: '2016-02-13T19:04:18.700Z'
+dateModified: '2016-02-13T19:04:12.957Z'
 title: 'Rocky Point, Mexico’s Rodeo Drive of Shopping'
 author: []
 sourcePath: _posts/2016-02-13-rocky-point-mexicos-rodeo-drive-of-shopping.md
