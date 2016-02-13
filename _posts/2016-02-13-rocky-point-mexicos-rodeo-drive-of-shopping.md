@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T20:17:32.755Z'
-dateModified: '2016-02-13T20:14:18.478Z'
+datePublished: '2016-02-13T20:22:18.688Z'
+dateModified: '2016-02-13T20:21:39.799Z'
 title: Shopping
 author: []
 sourcePath: _posts/2016-02-13-rocky-point-mexicos-rodeo-drive-of-shopping.md
