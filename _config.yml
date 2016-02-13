@@ -1,6 +1,6 @@
 name: Rockypoint
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.50503
 typography_spectrum: 0.0515
 title: Rockypoint.org
 cta:
@@ -22,7 +22,7 @@ color:
     - '#65809d'
     - '#dfdee3'
     - '#4b4c50'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
