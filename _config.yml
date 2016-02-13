@@ -2,6 +2,7 @@ name: Rockypoint
 favicon: null
 layout_spectrum: 0.20226
 typography_spectrum: 0.04647
+title: Rockypoint.org
 cta:
   domain: null
   bucket: null
