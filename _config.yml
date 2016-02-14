@@ -6,19 +6,19 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.5
+  saturation: 0.6407089
   brandStrength: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.7599356
   brandColors:
     - '#ffffff'
-  lightness: 0.5
+  rhythmicContrast: 0.6901182
 cta:
   bucket: null
   version: null
@@ -27,8 +27,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Rockypoint
 favicon: null
+name: Rockypoint
 opengraph:
   image: null
   type: null
