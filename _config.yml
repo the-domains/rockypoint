@@ -1,25 +1,37 @@
-name: Rockypoint
-favicon: null
-layout_spectrum: 0.74749
-typography_spectrum: 0.05653
 title: Rockypoint.org
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 0.5
+  brandColors:
+    - '#ffffff'
+  lightness: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Rockypoint
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.5676692
+layout_spectrum: 0.74749
