@@ -1,5 +1,8 @@
-title: Rockypoint.org
-purpose: []
+name: Rockypoint
+favicon: null
+layout_spectrum: 0.74749
+typography_spectrum: 0.5676692
+title: Rocky Point
 collections:
   - index:
       path: /
@@ -12,26 +15,23 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.6407089
-  brandStrength: 0.5
-  lightness: 0.7599356
-  brandColors:
-    - '#ffffff'
-  rhythmicContrast: 0.6901182
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Rockypoint
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5676692
-layout_spectrum: 0.74749
+color:
+  brandColors:
+    - '#ffffff'
+  brandStrength: 0.5
+  lightness: 0.7599356
+  saturation: 0.6407089
+  rhythmicContrast: 0.6901182
+purpose: []
