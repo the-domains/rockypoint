@@ -4,21 +4,21 @@
         <description><![CDATA[Rocky Point]]></description>
         <link>http://rockypoint.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 16:55:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 05:36:10 GMT</lastBuildDate>
         <atom:link href="http://rockypoint.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
-            <description><![CDATA[<article><h1> </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02856fb4a4ba89ebec1abc6cfc4cad277c31ea32.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02856fb4a4ba89ebec1abc6cfc4cad277c31ea32.jpg" alt="" title="" />]]></description>
             <link>http://rockypoint.org/home/index.html</link>
             <guid isPermaLink="false">2d67c924-9ffe-45f1-9a1b-6e81a56d1144</guid>
-            <pubDate>Wed, 23 Mar 2016 16:54:53 GMT</pubDate>
+            <pubDate>Sat, 30 Jul 2016 05:36:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shopping]]></title>
-            <description><![CDATA[<article><h1>Shopping</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e66891286928b7569e4a3b61078ba802d8643ce1.jpg"></article>]]></description>
-            <link>http://rockypoint.org/shopping/index.html</link>
-            <guid isPermaLink="false">842ea796-dfbc-4038-b173-7ef35d5a31b6</guid>
-            <pubDate>Sat, 13 Feb 2016 21:21:32 GMT</pubDate>
+            <title><![CDATA[Whale Watching]]></title>
+            <description><![CDATA[<article><h1>Whale Watching</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a457a13f793b10cbcd1335f1465cc15bdab75c6.jpg"></article>]]></description>
+            <link>http://rockypoint.org/45e61e81-8f87-4008-aa29-9e3d352e9f9e/index.html</link>
+            <guid isPermaLink="false">45e61e81-8f87-4008-aa29-9e3d352e9f9e</guid>
+            <pubDate>Sat, 13 Feb 2016 21:22:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beaches]]></title>
@@ -35,11 +35,11 @@
             <pubDate>Sat, 13 Feb 2016 21:21:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whale Watching]]></title>
-            <description><![CDATA[<article><h1>Whale Watching</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a457a13f793b10cbcd1335f1465cc15bdab75c6.jpg"></article>]]></description>
-            <link>http://rockypoint.org/45e61e81-8f87-4008-aa29-9e3d352e9f9e/index.html</link>
-            <guid isPermaLink="false">45e61e81-8f87-4008-aa29-9e3d352e9f9e</guid>
-            <pubDate>Sat, 13 Feb 2016 21:22:15 GMT</pubDate>
+            <title><![CDATA[Shopping]]></title>
+            <description><![CDATA[<article><h1>Shopping</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e66891286928b7569e4a3b61078ba802d8643ce1.jpg"></article>]]></description>
+            <link>http://rockypoint.org/shopping/index.html</link>
+            <guid isPermaLink="false">842ea796-dfbc-4038-b173-7ef35d5a31b6</guid>
+            <pubDate>Sat, 13 Feb 2016 21:21:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
